@@ -1,0 +1,7 @@
+The general objective of this research is as follows:
+
+Though we understand how proteins are synthesized from DNA, we do not fully understand the dynamics of what drives certain biological characteristics to be more fully expressed than other characteristics — that is, what drives the different products of alternative splicing.  If we evaluate pre-mRNA before it becomes spliced by looking at its ratio of introns to exons, perhaps we could better understand what preferentially drives certain genes to be more expressed, thus improving our understanding of the eukaryotic RNA processing.
+
+The contained script (RNA_script.py) requires the usage of two files: the Human Genome Transfer File (GTF) and Bedgraph file. The script extracts the exons locations within the GTF file (exon being the genes expressed across the genome) and cross references them with their read-depth-per-slice (how much they were use for RNA production in certain organs). The script is commented to explain some of this process, and the Methods section of the attached PDF (RNA_Processing_Dynamics.pdf) further explains the formulas and logic used.
+
+Additionally, this project place Semifinalist in the Siemens Competition in Math, Science and Technology. A PDF (2014_Competition_Semifinalists_FINAL.pdf) is included for verification. My name is listed under Louisiana.
