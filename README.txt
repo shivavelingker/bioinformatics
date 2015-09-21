@@ -1,4 +1,4 @@
-The general objective of this research is as follows:
+This research was conducted largely independently, with the guidance of Dr. Grant Belgard, University of Oxford. The general objective of the research is as follows:
 
 Though we understand how proteins are synthesized from DNA, we do not fully understand the dynamics of what drives certain biological characteristics to be more fully expressed than other characteristics — that is, what drives the different products of alternative splicing.  If we evaluate pre-mRNA before it becomes spliced by looking at its ratio of introns to exons, perhaps we could better understand what preferentially drives certain genes to be more expressed, thus improving our understanding of the eukaryotic RNA processing.
 
